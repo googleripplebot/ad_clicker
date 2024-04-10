@@ -12,7 +12,7 @@ This tool clicks ads for a certain query on Google search. Supports proxy, runni
 
 ---
 
-![Ad](https://i.imgur.com/ybvxPzY.png)[https://googleripple.com]
+[https://i.imgur.com/ybvxPzY.png](https://googleripple.com)
 
 ---
 
