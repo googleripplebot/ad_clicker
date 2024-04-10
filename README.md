@@ -12,6 +12,10 @@ This tool clicks ads for a certain query on Google search. Supports proxy, runni
 
 ---
 
+![Ad](https://i.imgur.com/ybvxPzY.png)
+
+---
+
 ## Disclaimer
 
 I am not responsible for anything you do with this tool/tutorial, by following this tutorial/using this tool you agree to this disclaimer.
